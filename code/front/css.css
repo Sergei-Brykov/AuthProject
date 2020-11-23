@@ -1,0 +1,8 @@
+body {
+  background: darkgoldenrod;
+}
+form.login {
+  width: 200px;
+  margin: auto;
+  color: white;
+}
